@@ -1,4 +1,12 @@
-### Hi there 👋
+## Robert McLaughlin - Cybersecurity Undergrad 
+
+- :classical_building: Eastern Florida State College (EFSC)
+- 📬 [Contact Me](mclaughlin.robert@titans.easternflorida.edu)
+- 🌱 I'm currently learning `Python` 🐍, `Network Security` 🛡️, `Forensics` 🔍
+
+👋 Hello there! I am new to the scene and just setting up, so pardon my dust!
+I don't expect to post anything publicly just yet, but that should change as time goes on. 
+For now, expect me to frequent pages and ask a few questions!
 
 <!--
 **RobertMcL-EFSC/RobertMcL-EFSC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
